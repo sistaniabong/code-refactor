@@ -36,5 +36,7 @@ The following image displays the web application's appearance:
 
 ## Review
 To review this homework, please see the following links:
+
 Web Application: https://sistaniabong.github.io/code-refactor/
+
 Repository: https://github.com/sistaniabong/code-refactor
