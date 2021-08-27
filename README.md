@@ -28,5 +28,11 @@ THEN I find a concise, descriptive title
 
 ## Mock-UP
 
-The following image displays the web application's appearance and functionality:
+The web applicatio includes a header image, navigation bar, cards with text descrition and images, and a footer at the bottom page. 
+The following image displays the web application's appearance:
 
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/49420697/131174182-c2538708-c2af-466e-9f3c-b8de30bbda69.png)
+
+
+## Review
+To review this homework, please see the following links:
