@@ -28,10 +28,10 @@ THEN I find a concise, descriptive title
 
 ## Features
 The web application includes:
-- header image
-- navigation bar
-- cards with text descrition and images
-- footer at the bottom page.
+- Header image
+- Navigation bar
+- Cards with text descrition and images
+- Footer at the bottom page.
 
 ## Mock-Up
 The following image displays the web application's appearance:
