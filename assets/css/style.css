@@ -45,7 +45,7 @@ header {
     color: #ffffff;
 }
 
-/* || Overriding h1 */
+/* || Replace word "seo" to a different color */
 #seo{
     color: #d9dcd6;
 }
@@ -133,24 +133,20 @@ li{
     margin-bottom: 32px;
     color: #ffffff;
 }
-/* overriding img element  */
+/* overriding main img element for images in benefit */
 .benefit-img{
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-
-
-
-/* || Utilities for footer */
+/* || Utilities for footer section */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
 #footer-h2 {
     font-size: 20px;
 }
